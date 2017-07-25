@@ -1,1 +1,1 @@
-# neo4j-test-20170725
+Execute `mvn test` to reproduce.
